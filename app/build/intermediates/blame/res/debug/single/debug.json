@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notification.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable-xxhdpi_bg_rounded_top.9.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable-xxhdpi/bg_rounded_top.9.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable_image_round_outline.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable/image_round_outline.xml"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable_splash.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable/splash.xml"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_default.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable-xxhdpi/ic_default.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/xml_remote_config_defaults.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/xml/remote_config_defaults.xml"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_dialog_close.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable-xxhdpi/ic_dialog_close.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_splash.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/drawable-xxhdpi/ic_splash.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/build/intermediates/res/merged/debug/layout_dialog_event.xml.flat",
+        "source": "/Users/ted/Documents/Development/Android/Android-MyTripOnAir/app/src/main/res/layout/dialog_event.xml"
+    }
+]

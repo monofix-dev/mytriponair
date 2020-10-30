@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--BaseViewPager-->
+    <declare-styleable name="BaseViewPager">
+        <attr name="matchWidthTargetChild" format="reference"/>
+    </declare-styleable>
+
+</resources>

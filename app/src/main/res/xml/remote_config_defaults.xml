@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <!-- Android Platform Info -->
+    <entry>
+        <key>android_min_code</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>android_current_code</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>android_version_name</key>
+        <value>1.0.0</value>
+    </entry>
+    <entry>
+        <key>android_store_url</key>
+        <value>https://mytriponair.com/</value>
+    </entry>
+
+    <!-- Event -->
+    <entry>
+        <key>event_image_url</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>event_click_link</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>event_code</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>event_name</key>
+        <value></value>
+    </entry>
+    <entry>
+        <key>event_image_height</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>event_image_width</key>
+        <value>0</value>
+    </entry>
+    <entry>
+        <key>bottom_event_datas</key>
+        <value></value>
+    </entry>
+
+</defaultsMap>

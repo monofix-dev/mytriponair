@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/key_color</color>
+    <color name="colorPrimaryDark">@color/key_color</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_splash">#5D6AF1</color>
+    <color name="key_color">#A71B2E</color>
+    <color name="key_color_shadow">#88A71B2E</color>
+<!--    <color name="status_bar_color">#F5F5F5</color>-->
+    <color name="status_bar_color">@color/white</color>
+
+</resources>

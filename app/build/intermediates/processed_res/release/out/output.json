@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "com.monofix.mytriponair",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "PROCESSED_RES"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "outputFile": "MyTripOnAir_release_vc1_v1.0.0_20201030155311.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "resources-release.ap_",
+      "properties": {
+        "packageId": "com.monofix.mytriponair",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

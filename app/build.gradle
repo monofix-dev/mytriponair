@@ -1,0 +1,98 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 30
+    buildToolsVersion "29.0.1"
+
+    defaultConfig {
+        applicationId "com.monofix.mytriponair"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode 1
+        versionName '1.0.0'
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        targetCompatibility 1.8
+        sourceCompatibility 1.8
+    }
+
+    buildFeatures {
+        dataBinding = true
+    }
+
+    android.applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "MyTripOnAir_${variant.name}_vc${variant.getVersionCode()}_v${variant.versionName}_${getDate()}.apk"
+        }
+    }
+}
+
+def getDate() {
+    return new Date().format('yyyyMMddHHmmss')
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'androidx.core:core-ktx:1.3.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
+    implementation "androidx.webkit:webkit:1.3.0"
+    implementation 'androidx.viewpager2:viewpager2:1.0.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+
+
+    // View
+    implementation "androidx.cardview:cardview:1.0.0"
+
+    // Image
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    kapt 'com.github.bumptech.glide:compiler:4.11.0'
+
+    // Firebase
+    implementation 'com.google.firebase:firebase-analytics:17.5.0'
+    implementation 'com.google.firebase:firebase-core:17.5.0'
+    implementation 'com.google.firebase:firebase-config:19.2.0'
+    implementation 'com.google.firebase:firebase-messaging:20.2.4'
+    implementation 'android.arch.work:work-runtime:1.0.1'
+
+    implementation 'com.google.firebase:firebase-auth-ktx:19.3.2'
+    implementation 'com.google.firebase:firebase-auth:19.3.2'
+    implementation 'com.google.android.gms:play-services-auth:18.1.0'
+
+    implementation 'com.google.firebase:firebase-dynamic-links-ktx:19.1.0'
+    implementation 'com.google.firebase:firebase-analytics-ktx:17.5.0'
+
+    // Amplitude
+    implementation 'com.amplitude:android-sdk:2.25.2'
+    implementation 'com.squareup.okhttp3:okhttp:4.2.2'
+
+    //network
+    implementation 'com.squareup.retrofit2:retrofit:2.3.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.2.0'
+    implementation 'com.squareup.okhttp3:logging-interceptor:3.8.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.2.2'
+    implementation ('com.squareup.retrofit:retrofit:1.9.0') {
+        exclude module: 'com.google.gson'
+    }
+
+    implementation 'com.tbuonomo.andrui:viewpagerdotsindicator:2.1.0'
+    implementation 'com.google.code.gson:gson:2.8.2'
+}
+
+apply plugin: 'com.google.gms.google-services'

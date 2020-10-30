@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087363175128",
+    "firebase_url": "https://mytriponair.firebaseio.com",
+    "project_id": "mytriponair",
+    "storage_bucket": "mytriponair.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087363175128:android:708761a43dec9d39fdfdad",
+        "android_client_info": {
+          "package_name": "com.monofix.mytriponair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087363175128-eqtdjn95aa9vmnho9kkrto0si3u891tj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEHuOe2BntJAF56qybeXshvXrzPdBHe7k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087363175128-eqtdjn95aa9vmnho9kkrto0si3u891tj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

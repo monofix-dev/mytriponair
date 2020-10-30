@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <color name="bg_splash">#5D6AF1</color>-->
+    <item android:drawable="@color/bg_splash" />
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/ic_splash" />
+
+    </item>
+
+</layer-list>

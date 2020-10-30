@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.monofix.mytriponair",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 10,
+      "versionName": "1.5.0",
+      "enabled": true,
+      "outputFile": "MyTripOnAir_debug_vc10_v1.5.0_20201030154504.apk"
+    }
+  ]
+}

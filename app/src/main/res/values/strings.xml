@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">마이트립온에어</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Test</string>
+    <string name="fcm_message">fcm_messagefcm_messagefcm_message</string>
+
+
+    <string name="dialog_min_version_title">알림</string>
+    <string name="dialog_min_version_desc">안정적인 서비스 제공을 위해\n최신 버전으로 업데이트가 필요합니다.\My Trip On Air 업데이트 후 이용해 주세요!</string>
+    <string name="dialog_min_version_confirm">확인</string>
+
+    <string name="toast_not_found_application">해당 어플리케이션을 찾을 수 없습니다</string>
+
+    <!--Back Button-->
+    <string name="common_guide_finish">\'뒤로\' 버튼을 한번 더 누르시면 종료됩니다</string>
+
+    <string name="dialog_event_popup_today_close">오늘 하루 보지 않기</string>
+    <string name="dialog_event_popup_close">닫기</string>
+
+    <!-- Dialog -->
+    <string name="dialog_location_title">위치 서비스 비활성화</string>
+    <string name="dialog_location_message">앱을 사용하기 위해서는 위치 서비스가 필요합니다</string>
+    <string name="dialog_location_confirm">설정</string>
+    <string name="dialog_location_cancel">취소</string>
+
+</resources>
