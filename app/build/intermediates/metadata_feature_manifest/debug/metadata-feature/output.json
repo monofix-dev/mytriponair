@@ -10,9 +10,9 @@
       "apkData": {
         "type": "MAIN",
         "splits": [],
-        "versionCode": 10,
-        "versionName": "1.5.0",
-        "outputFile": "MyTripOnAir_debug_vc10_v1.5.0_20201030154504.apk",
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "outputFile": "MyTripOnAir_debug_vc1_v1.0.0_20201207230748.apk",
         "fullName": "debug",
         "baseName": "debug",
         "dirName": ""
